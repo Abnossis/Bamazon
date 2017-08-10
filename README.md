@@ -8,7 +8,7 @@ A Node.js & MySQL command line Amazon-like storefront app that takes in customer
 #My Videos
 [click here to see Bamazon Live!](video) 
 
-![Bamazon](images/Bamazon.gif)
+![Bamazon](assets/images/Bamazon.gif)
 
 ## Usage
 
@@ -32,10 +32,10 @@ A Node.js & MySQL command line Amazon-like storefront app that takes in customer
 * nodeJS
 * MySQL
 * npm packages:
-	- [mysql](https://github.com/Abnossis/node-mysql)
-	- [prompt](https://github.com/flatiron/prompt)
-	- [colors/safe](https://github.com/Marak/colors.js)
-	- [cli-table](https://github.com/Automattic/cli-table)
+	- [mysql]
+	- [prompt]
+	- [colors/safe]
+	- [cli-table]
 
 #### Instructions:
 
@@ -95,7 +95,7 @@ A Node.js & MySQL command line Amazon-like storefront app that takes in customer
 
 The Bamazon Customer Portal allows users to view the current items available for purchase.  The user will be prompted to enter the item id# and how many items they wish to purchase.  If the item is in stock, the order will be completed and the user will see the total amount of their purchase.
 
-![Customer Portal](images/customer.png)
+![Customer Portal](assets/images/customer.png)
 
 
 ##### Bamazon Manager Portal
@@ -114,10 +114,10 @@ The first option allows the user to see the list of products that are currently 
 
 The second option allows the user to see a list of all inventory items that have less than 5 items in stock.  If there are no products that meet this criteria, the user will see an empty table.
 
-![Bamazon Manager Portal - Options 1 & 2](images/manager-option1.png)
-                                         (images/manager-option2.png)
-                                         (images/manager-option3.png)
-                                         (images/manager-option2-3.png)
+![Bamazon Manager Portal - Options 1 ](assets/images/manager-option1.png)
+![Bamazon Manager Portal - Options 2](assets/images/manager-option2.png)
+![Bamazon Manager Portal - Options 3](assets/images/manager-option3.png)
+![Bamazon Manager Portal - Options 2 & 3](assets/images/manager-option2-3.png)
 
 
 ###### Manager Options 3 & 4
@@ -127,9 +127,9 @@ The third option allows the user to update the inventory for a specific product.
 
 The last option allows the user to add a new product to the inventory.  Prompts ask the user for the product id#, the product name, the department name, the price and the stock quantity.
 
-![Bamazon Manager Portal - Options 3 & 4](images/manager-option2-3.png)
-                                         (images/manager-option4.png)
-                                         (images/table-products.png)
+![Bamazon Manager Portal - Options 2 & 3](images/manager-option2-3.png)
+![Bamazon Manager Portal - Options 4](images/manager-option4.png)
+![Bamazon Manager Portal - Table Products](images/table-products.png)
 
 
 
@@ -139,7 +139,7 @@ The last option allows the user to add a new product to the inventory.  Prompts 
 The Bamazon Executive Portal allows users to view the total profits of the store categorized by department and add new departments.  
 
 ![Bamazon Executive Portal](images/executive-option1-2.png)
-                           (images/table-deparments.png)
+![Bamazon Executive Portal Dep Table](images/table-deparments.png)
 
 
 
