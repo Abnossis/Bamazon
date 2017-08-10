@@ -8,15 +8,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ramirolpz55/Bamazon.git"
+        "url": "https://github.com/Abnossis/Bamazon.git"
     },
     "keywords": ["MySQL", "Node"],
-    "author": "Ramiro",
+    "author": "Jose",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/ramirolpz55/Bamazon/issues"
+        "url": "https://github.com/Abnossis/Bamazon/issues"
     },
-    "homepage": "https://github.com/ramirolpz55/Bamazon#readme",
+    "homepage": "https://github.com/Abnossis/Bamazon#readme",
     "dependencies": {
         "devtool": "^2.2.0",
         "inquirer": "^1.1.3",
