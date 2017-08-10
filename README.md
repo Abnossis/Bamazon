@@ -127,9 +127,9 @@ The third option allows the user to update the inventory for a specific product.
 
 The last option allows the user to add a new product to the inventory.  Prompts ask the user for the product id#, the product name, the department name, the price and the stock quantity.
 
-![Bamazon Manager Portal - Options 2 & 3](images/manager-option2-3.png)
-![Bamazon Manager Portal - Options 4](images/manager-option4.png)
-![Bamazon Manager Portal - Table Products](images/table-products.png)
+![Bamazon Manager Portal - Options 2 & 3](assets/images/manager-option2-3.png)
+![Bamazon Manager Portal - Options 4](assets/images/manager-option4.png)
+![Bamazon Manager Portal - Table Products](assets/images/table-products.png)
 
 
 
@@ -138,8 +138,8 @@ The last option allows the user to add a new product to the inventory.  Prompts 
 
 The Bamazon Executive Portal allows users to view the total profits of the store categorized by department and add new departments.  
 
-![Bamazon Executive Portal](images/executive-option1-2.png)
-![Bamazon Executive Portal Dep Table](images/table-deparments.png)
+![Bamazon Executive Portal](assets/images/executive-option1-2.png)
+![Bamazon Executive Portal Dep Table](assets/images/table-deparments.png)
 
 
 
