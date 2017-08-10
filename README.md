@@ -1,7 +1,7 @@
 
 #Bamazon
 
-A Node.js & MySQL command line Amazon-like storefront app that takes in customers orders and depletes stock from the stores Inventory. 
+In this project, in combination with Node.js & MySQL command line we are creating an "Amazon-like storefront". The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, the program app is able to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
 
 ### Overview
 
