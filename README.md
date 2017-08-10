@@ -73,7 +73,7 @@ A Node.js & MySQL command line Amazon-like storefront app that takes in customer
 	* Once the update goes through, it will show the customer the total cost of their purchase.
 
 
-====================================================================================
+=================================================================================
 ## Examples:
 
 ### Table View
@@ -85,7 +85,7 @@ A Node.js & MySQL command line Amazon-like storefront app that takes in customer
 
 
 
-====================================================================================
+=================================================================================
 
 
 ### Interface
